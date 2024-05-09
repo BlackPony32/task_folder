@@ -1,0 +1,19 @@
+Id,Created at,Created by,Customer,Representative,Grand total,Manufacturer name,Product name,QTY,Item specific discount,Manufacturer specific discount,Total invoice discount,Discount type,Customer discount,Free cases
+583141,12/17/2023 06:45 PM,Admin,Sakman Grill & Gourmet,Valeria Vasylets,1.0,GNGR Labs,Test T / 1,1,0,0.0,0,NONE,0.0,0
+287818,12/17/2023 06:44 PM,Admin,Key Food Marketplace,Valeria Vasylets,71.88300000000001,GNGR Labs,Ginger Shots / Immunity Booster / 2 fl oz,1,0,0.0,0,NONE,7.987000000000001,0
+287818,12/17/2023 06:44 PM,Admin,Key Food Marketplace,Valeria Vasylets,71.88300000000001,GNGR Labs,Ginger Shots / Vitamin C / 2 fl oz,1,0,0.0,10,NONE,7.987000000000001,0
+711594,11/22/2023 01:11 PM,Admin,Key Food Marketplace,Valeria Vasylets,360.62,GNGR Labs,Ginger Shots / Immunity Booster / 2 fl oz,1,0,79.98400000000001,0,MANUFACTURER SPECIFIC DISCOUNT,48.956,2
+711594,11/22/2023 01:11 PM,Admin,Key Food Marketplace,Valeria Vasylets,360.62,GNGR Labs,Ginger Shots / Immunity Aid / 2 fl oz,1,0,79.98400000000001,0,MANUFACTURER SPECIFIC DISCOUNT,48.956,0
+711594,11/22/2023 01:11 PM,Admin,Key Food Marketplace,Valeria Vasylets,360.62,GNGR Labs,Ginger Shots / Vitamin C / 2 fl oz,8,0,79.98400000000001,0,MANUFACTURER SPECIFIC DISCOUNT,48.956,0
+711594,11/22/2023 01:11 PM,Admin,Key Food Marketplace,Valeria Vasylets,360.62,GNGR Labs,Ginger Shots / Digestive Aid / 2 fl oz,1,0,79.98400000000001,0,MANUFACTURER SPECIFIC DISCOUNT,48.956,0
+895041,10/25/2023 06:13 PM,Admin,Brooklyn Harvest Market,Valeria Vasylets,772.48,GNGR Labs,Test T / 1,4,0,0.0,0,NONE,0.0,0
+895041,10/25/2023 06:13 PM,Admin,Brooklyn Harvest Market,Valeria Vasylets,772.48,GNGR Labs,Ginger Shots / Vitamin C / 2 fl oz,8,0,0.0,0,NONE,0.0,0
+895041,10/25/2023 06:13 PM,Admin,Brooklyn Harvest Market,Valeria Vasylets,772.48,GNGR Labs,Ginger Shots / Digestive Aid / 2 fl oz,3,0,0.0,15,NONE,19.0,0
+895041,10/25/2023 06:13 PM,Admin,Brooklyn Harvest Market,Valeria Vasylets,772.48,GNGR Labs,Ginger Shots / Immunity Booster / 2 fl oz,9,0,0.0,0,NONE,0.0,0
+583141,10/26/2023 07:17 PM,Admin,Sakman Grill & Gourmet,Valeria Vasylets,642.48,GNGR Labs,Ginger Shots / Immunity Booster / 2 fl oz,3,0,0.0,0,MANUFACTURER SPECIFIC DISCOUNT,48.956,1
+583141,10/25/2023 06:13 PM,Admin,Sakman Grill & Gourmet,Valeria Vasylets,482.48,GNGR Labs,Ginger Shots / Vitamin C / 2 fl oz,6,10,0.0,0,NONE,0.0,0
+583141,10/26/2023 07:17 PM,Admin,Sakman Grill & Gourmet,Valeria Vasylets,712.48,GNGR Labs,Ginger Shots / Immunity Booster / 2 fl oz,12,0,79.98400000000001,0,NONE,0.0,0
+895041,10/25/2023 06:13 PM,Admin,Brooklyn Harvest Market,Valeria Vasylets,472.48,GNGR Labs,Ginger Shots / Immunity Aid / 2 fl oz,4,0,0.0,15,NONE,0.0,0
+895041,10/26/2023 07:17 PM,Admin,Brooklyn Harvest Market,Valeria Vasylets,52.48,GNGR Labs,Ginger Shots / Immunity Booster / 2 fl oz,1,15,0.0,0,NONE,48.956,0
+895041,10/25/2023 06:13 PM,Admin,Brooklyn Harvest Market,Valeria Vasylets,789.48,GNGR Labs,Ginger Shots / Vitamin C / 2 fl oz,6,0,0.0,0,MANUFACTURER SPECIFIC DISCOUNT,0.0,0
+895041,10/26/2023 07:17 PM,Admin,Brooklyn Harvest Market,Valeria Vasylets,972.48,GNGR Labs,Ginger Shots / Immunity Booster / 2 fl oz,7,0,0.0,0,NONE,0.0,0
